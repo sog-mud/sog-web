@@ -1,0 +1,1 @@
+Tot vislauxiy balbes kotoriy utverzhdayet chto Agenocid eto Olman rodilsa v karagande i stradaet gemoroem uxa, ya te 100 govoru chto Agenorid ne = Olman, ibo ya ix oboix znau v rl... Age, peredavay privet Ulrichu, Digu tobish, i Girlroomu:)

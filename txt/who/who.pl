@@ -25,7 +25,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $Id: who.pl,v 1.1.1.1 2003-04-28 13:58:02 fjoe Exp $
+# $Id: who.pl,v 1.2 2004-03-09 19:23:44 fjoe Exp $
 #
 
 $netcat = "/usr/local/bin/nc";
