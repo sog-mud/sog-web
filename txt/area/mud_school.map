@@ -1,0 +1,71 @@
+Levels 0-5 only.
+                                                              
+      Cage Room--------------------Room                       
+        |   /                     /  ^                         
+        | _/                     /   |                         
+        Cage         [E]     Blob  Room  Room                
+  Cage--Room--Cage    ^      Cage    |   /                    
+       / |   Dark     |           Center/                     
+      / Cage Room     =      Room--Room---Room                
+     /        |   L   |           /  |     |                      граница между ариями
+   Room---=--Room-=->End         /  Room   |                    <-MUD School & zoology Museum
+    |                Room      Room        |                   !
+   Лавка                                   |                   !     Zoology Museum
+                           Training Room--Room--Guild Room     !
+                                           |                   !         Entrance   Souvenire             
+                                        Entrance--------------...--------to Museum  Shop
+                                       /   |                   !              |    /                                   
+                                     ...   |                   !    Hall of--Atrium---Under                        
+                                 Midgaard  |                       chordates Museum   Sea                 
+                               (Temple of  |                          |       |        |      L           
+                                 Midgaard) |                       Hall of   под     Marine--=--The Shark
+                                 ...       =                     chordates  водой     Exhibit     Tank    
+                                 /`        |             The          |       |        |                  
+                             A Safe        |           Gorilla-=-Hall of   Hall of   Marine               
+                             Room          |            Cage     chordates  Tinsy    Exhibit              
+                              /`           |                          |    Things      |                  
+                            [S]            |                          |       |        |                  
+                            /              |                          V       V        V                  
+                           /               |                         Exit from the Museum
+                          /                |                          |                  
+                         /                 |                         ... <-граница между ариями 
+                        /          [S]     |  [S]     [S]      [S]    |   MUD School & zoology Museum
+                       /           /       V  /       /        /      V
+                   North West   North    North    North   Nort East Corner
+                   Corner of---Wall of--Wall of--Wall of----of Arena
+                     Arena      Arena    Arena    Arena       |        
+                       |  [S]     |[S]     |  [S]   | [S]     |   [S]
+                     West /       |/       |  /     | /      East /
+                    Wall of-----Arena----Arena----Arena-----Wall of
+                     Arena        |        |        |        Arena
+                       |  [S]     |[S]     |  [S]   | [S]     |   [S]
+                     West /       |/    Center/     | /      East  /
+                    Wall of-----Arena--of Arena---Arena-----Wall of
+                     Arena        |     /  |        |        Arena
+                       |          |   [D]  |        |         |
+                       |  [S]     |[S]     |  [S]   | [S]     |   [S]
+                     West /       |/       |  /     | /      East /
+                    Wall of-----Arena----Arena----Arena-----Wall of
+                     Arena        |        |        |        Arena
+                       |  [S]     |[S]     |  [S]   | [S]     |   [S]
+                       |  /       |/       |  /     | /       |  /
+                   South West   South    South    South  South East
+                   Corner of---Wall of--Wall of--Wall of--Corner of
+                     Arena      Arena    Arena    Arena     Arena
+                                           ^ 
+                                           |
+                                          [E]
+
+                         North West      North       North East
+                         Corner of------Wall of------Corner of
+                          Dungeon       Dungeon       Dungeon
+                             |             |    [D]      |
+                             |             |    /        |
+                         East Wall     The Center    East Wall
+                         of Dungeon------of the------of Dungeon
+                             |          Dungeon          |
+                             |             |             |
+                         South West      South       South East
+                         Corner of------Wall of------Corner of
+                          Dungeon       Dungeon       Dungeon
+

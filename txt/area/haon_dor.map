@@ -1,0 +1,59 @@
+DTDDF = A dusty trail in the deep, dark forest          SPLF = A small path through the light forest                 
+NTDDF = A narrow trail through the deep, dark forest    TLF = A trail through the light forest                       
+SPDDF = Small path in the deep, dark forest             JDDF = Junction in deep,dark forest                          
+TDF = A trail through the dense forest                  DEPRB = A dead end path on river bank in the deep,dark forest
+SPDF = A small path in dense forest                     RB = On the river bank in the deep,dark forest               
+IDF = An Intersection in dense forest                   SPRB = Small path in the river bank in the deep,dark forest  
+ILF = An Intersection in the light forest               ETDDF = At the end of the trail through the deep,dark forest 
+NT = The narrow trail.                                  OCDDF = Outside a cave in the deep, dark forest              
+---------------------------------------------------------------------------------------------------------------------
+                                             (A Dark Path Through The Forest)
+                                                         Titan
+                                                         Valley
+                                                          ...
+                                                           |               
+                                                      The circle   Inside  
+            (On the spider web)                    NT--of trees---the great
+                  Arachnos                          |             / tree   
+                     ...                            |            The                    (Вход
+                      |      Up in                  |         undeground                в Днарк)     (A dimly lit path)
+    The Den of-----On the-----the                   |          hallway                   Dnark            Shire
+    the Queen      spider     tree                  |             |                       ...              ...
+     Spider         web        /                   NT       The cultist temple             |                |
+                              /                     |                                      |            The edge
+                    The<---NTDDF--SPDDF           NTDDF--NTDDF--NTDDF--NTDDF---TDF--TDF---TLF---TLF---of the forest-...Midgaard
+                   spider           |               |             |             |          |                ^       (Outside the West 
+                    web             |               |             |             |          |                |       Gate of Midgaard)
+                                  NTDDF--NTDDF----NTDDF         SPDDF         SPDF       SPLF   Inside     ...
+                                    |               |             |             |          |    cabin    Underdark (Forgotten Alley)
+                                    |               |             |             |          |      |           
+Shadow       The cave of the      NTDDF           SPDDF--JDDF---SPDDF         SPDF--IDF--Forest--Outside a small 
+Grove          Green dragon         |                      |                         | Clearing  cabin in the forest
+...                 |               |                      |    Isles                |            |
+ |                  |               |                      |     ...                 |            |
+ |                  |               |                      |      |                  |            |  
+ETDDF--DTDDF------OCDDF    NTDDF--NTDDF--SPDDF    SPDDF--JDDF---SPDDF               IDF---SPDF---IDF--SPDF
+         |                   |             | Isles  |             |                  |                 |
+         |                   |             | ...    |             |                  |          On a   |
+         |                   |             | /      |             |                  |          small  |          
+      DTDDF--NTDDF--NTDDF--NTDDF  SPDDF---JDDF----SPDDF         SPDDF       Inside--SPDF--SPDF grassy SPDF
+                             |      |                             |         the            |   field   |
+                             |      |                             |         cave           |      |    |
+                           SPRB----RB-----DEPRB          DEPRB----RB                      SPDF---ILF--SPDF
+                             |      |       |                                                          |
+                             |      |       |                                                          |
+                            ...   (fly)     |                                                         ...
+                           Marsh    |       |                                                     Drakiry Isle
+                          (Muddy   ...     ...                                                    (Wooded Path)
+                           Path)  New       |
+                                 Thalos     |       Troll
+                                 (On the    |        Den
+                                  Dark    Wastedump 
+                                  River)    |
+                                            |
+                               Troll's----Troll's-----The 
+                                Larder  Living Room  PlayPen
+                                            |               
+                                         Troll's            
+                                         Bedroom            
+

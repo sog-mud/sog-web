@@ -1,0 +1,338 @@
+<h1>Создание нового персонажа</h1>
+<hr>
+<p>To log onto Shades of Gray you will telnet to
+<a href='telnet://sog.dnttm.ru:4000'>sog.dnttm.ru 4000</a>
+ also available ports: 1234, 4321, 9000.
+<p>
+<pre class=sog_code>
+Connected to host sog.dnttm.ru
+
+          ,   ,
+         ,-``/
+      ,-~ , \ ~~-,
+    ,~  ,   ,`,-~~-,`,                                              }/
+   ,`   ,        } }          Welcome to                   }/      /,/
+ ;     ,--/`\ \    / /                 Shades of Gray     /,;    ,/ ,/
+;  ,-./      \ \   (                                     / `,  ,/  `,/
+; /   `       } } `, `-`-.___                           / ,`,,/  ,`,;
+ \|         ,`,`    `~.___,---}                    __  /  ,`/   ,`,;
+  `        { {                                  _,`, `{  `,{   `,`;`
+        /   \ \        /~\                     (--,   ;\ `,}  `,`;
+       {     } }     /` , \                      `~;   \},/  `,`;     ,-=-
+       \\._./ /     /. `  .\_                  __,{     `/  `,`;     {
+        `-..-`     / , ~ . ^ `~`\          <<~>-,,`,    `-,  ``,_    }
+                /~~ . `  . ~  , .`~~\           _-~  ;__,        `,-`
+       /`\    /~Original DikuMUD by '\         <<<~```   ``-,,__   ;
+      /` .`\ /`Hans Staerfeldt, Katja~\                        \\, `,__
+     / ` , ,`\.Nyboe, Michael Seifert,``~~~`,                   `-`--, \
+    / , ~ . ~ \ Tom Madsen, Sebastian Hammer.`-,___,---,__            ``
+  /`dan. ~ . ` `\Based on MERC 2.1 code by Hatchet, Furey,~---,____
+/` .hunt,  . ~ , \Kahn. ROM 2.4 copyright (c) 1993-1995 Russ Taylor`-,,
+.` . ~' . ` . . ~  \ANATOLIA 2.1 by 1997 Serdar BULUT, Ibrahim CANPUNAR,\
+~.  ` ` ,. ` , . ~ ~\ .~ '`. '.Murat BICER, Devrim Baris ACAR.` . ~` .' ~\
+    Shades of Gray code by fjoe, Constantin Svintsoff, Alexey Neyman.
+
+1. koi8-r 2. alt (cp866) 3. win (cp1251) 4. iso (ISO-8859-5) 5. mac 
+6. translit
+Select your codepage (non-russian players should choose translit): 
+</pre>
+<p>Здесь вы должны выбрать кодировку, которую вы используете.
+<pre class=sog_code>
+By which name do you wish to be known? 
+</pre>
+<p>Здесь вы должны выбрать имя, под которым вы будете известны в Shades of Gray.
+Если персонаж с таким именем существует, то появится приглашение:
+<pre class=sog_code>
+Password:
+</pre>
+<p>
+Вводите пароль (если знаете или помните) и смело перемещайтесь в Shades of Gray.
+<p>
+Если имя, которое вы ввели еще не использовано никем, вы увидете следующий 
+текст (<a href ='?section=getstart&name=name_policy' target="_blank" >русский вариант текста</a>):
+</p>
+<pre class=sog_code>
+                           Name policy
+In order to create a role-playing and adventure atmosphere throughout the
+realms of Shades of Gray, you must choose a name accordingly explained below:
+
+Acceptable:
+   -- Proper names, medieval or modern. i.e  (Takasi, Aurian)
+   -- Created names with a medieval or fictional sound.  (Priatros, Sansoles)
+
+Unacceptable:
+   -- Vulgar or sexually suggestive names (No examples needed)
+   -- Nouns which are names of animals (Horse, Doll)
+   -- Strings of random characters (Asdfg, Qwdldkf)
+   -- Titles which imply rank or privelege (Lord, Sir,...)
+   -- Scientific phrases, words (Proof, Logic, Electrics...)
+   -- Object names (Necklace,Staff,Sword, etc)
+   -- Compound names (FarmerJoe, MaryJane, etc)
+   -- Attributes of objects or creatures (Fine, Common, etc)
+
+Restricted:
+   -- Well-known names of the world epic Gods anf Heroes,
+      as well as historical persons (Arjuna, Odin, Napoleon)
+   -- Names of authoers, characters and actors of thr world literature,
+      thearer and cinema (Pushkin, Kruger, Schwarzenneger)
+
+You can use some of the "restricted" names, but in this case you MUST
+roleplay this character IN FULL. Otherwise, you will be asked to rename.
+All the above said concern to consonant names as well, and it does not
+matter, in what language. Anyway, immortals may ask you to choose     another
+name if they consider your name inappropriate.
+
+If your name fits above restrictions, type Y. Otherwise choose another 
+name. Last decision depend upon Immortals of Shades of Gray.
+
+</pre>
+<p>Если Выбранное вами имя удовлетворяет этим требованиям, то смело жмите 'y',
+иначе вы получите следующее сообщение:
+<pre class=sog_code>
+Ok, what IS it, then?
+</pre>
+<p>Здесь нужно будет снова ввести имя, потом опять требования на имя. В любом 
+случае можно ответить 'y' - ничего криминального в этом нет. Затем нужно будет
+дважды набрать пароль для своего персонажа.
+<pre class=sog_code>
+New character.
+Give me a password for Aurian: 
+
+Please retype password: 
+</pre>
+<p>Введя пароль, переходим к выбору расы. В Shades of Gray существыют
+следующие расы:
+<pre class=sog_code>
+Shades Of Gray is home for the following races:
+RACE       ACRONYM GOOD_AT BAD_AT EXTRA COMMENTS
+----       ------- ------- ------ ----- ---------------------------------------
+Human       Human   None   None     0   average race
+Elf          Elf  Int,Dex Str,Con  500  good, "mastering bow",sneak,infravision
+Half-Elf    H-Elf Int,Dex Str,Con  200  half elf, half human; infravision
+Dark-Elf    D-Elf Int,Dex Str,Con  500  evil, sneak, infravision
+Rockseer    Rocks Int,Dex Str,Con  500  neut,"wand",sneak,pass door,infravision
+Dwarf       Dwarf Wis,Con   Dex    250  "berserk", "axe", "mace", infravision
+Svirfnebli  Svirf   Wis     Int    250  neutral, "lore", "identify",infravision
+Duergar     Duerg Str,Con Int,Wis  250  evil, "berserk","pick lock",infravision
+Arial       Arial Int,Dex Str,Con  250  can fly
+Gnome       Gnome Int,Wis Str,Con  300  neutral, "identify", infravision
+Storm Giant StGia Str,Con Wis,Dex  600  good, "bash","enh. dam.","sword", fly
+Cloud Giant ClGia Str,Con Int,Dex  500  neutral, "bash","enh. dam", "sword",fly
+Fire Giant  FiGia Str,Con Int,Dex  500  evil, "bash", "enh. damage", "sword"
+Frost Giant FrGia Str,Con Int,Dex  500  evil, "bash", "enh. damage", "axe"
+Githyanki   Githy Int,Dex Wis,Con  250  evil, "sword", "dagger", infravision
+Satyr       Satyr   Dex     Int    250  neutral, "camo.","ambush","steal",infra
+Felar       Felar Dex,Con Str,Int  250  "hand to hand", "tail", "claws", infra
+Troll       Troll Str,Con Int,Dex  400  evil, regen,"fast heal","trance", infra
+Wyrm        Wyrm  Con,Wis Int,Dex  600  evil,neutral,"claws","tail", fly, infra
+Centaur     Centa Str,Con Int,Dex  400  good, neutral, "mastering bow", infra
+What is your race (help <race> for more information)? 
+</pre>
+<p>Можно сразу выбирать расу, но прежде чем это сделать, почитайте про них, набрав
+например: 'help wyrm'. 
+<pre class=sog_code>
+WYRM
+
+Wyrm is the kind of the dragons. Theirs scale defence them from slash
+blows, but they are vulnirable to pierce attack. Wyrm are large and
+can fly.
+
+What is your race? ('help <race>' for more information) 
+
+What is you sex (m/f)?
+</pre>
+<p>Раса выбрана. Затем выбирается пол персонажа. Замечу, что от пола 
+зависит какую профессию можно будет вабрать. Например, ведьмами могут быть только
+женщины, а варлокамиом только мужчины. (m -- мужской пол, f -- женский)
+<p>Затем переходим к выбору профессии:
+<pre class=sog_code>
+Here are the classes and their extra cost per level.
+For more information, type "help <class>".
+
+CLASS      ACRONYM   PRIME STAT  SEX   EXTRA    CATEGORY & COMMENTS
+-----      -------   ----------  ----  -----    -------------------
+Witch        Wit      INT         F     200     users of offensive magics
+Cleric       Cle      WIS        ANY     0      users of healing magics
+Thief        Thi      DEX        ANY     0      masters of the thieving 
+                                                arts
+Warrior      War      STR        ANY     0      masters of brute combat
+Warlock      Wrk      INT         M     300     necromantic warriors
+Ranger       Ran      STR        ANY    200     forest warrior     
+Ninja        Nin      DEX        ANY    300     thief/cleric       
+AntiPaladin  A-P      STR        ANY    300     warrior/mage       
+Paladin      Pal      STR        ANY    400     warrior/cleric     
+Samurai      Sam      STR        ANY    500     masters of ancient 
+                                                battlearts 
+Vampire      Vam      INT        ANY    300     simply vampire
+Necromancer  Nec      INT        ANY    200     simply necromancer
+
+Select a class:
+[ cleric thief warrior paladin anti-paladin ninja 
+(Continuing:) ranger warlock samurai vampire necromancer ]:
+What is your class ('help <class>' for more information)? 
+</pre>
+<p>Введя 'help <название профессии>' можно узнать более подробно
+кто такие воины.
+<p>Следующий шаг - выбор характеристик персонажа. Каждый персонаж
+имеет 6 характеристик, от которых зависят некоторые способности. 
+<pre class=sog_code>
+There are currently 6 stats, which are STR,INT,WIS,DEX,CON,CHA. Each
+has special importance in your mud life, while fighting, gaining hitpoint
+mana at each tick, gaining hitpoint,mana and movement at gaining level,etc.
+
+ (Str)ength|(Int)ellect| (Wis)dom  |(Dex)terity|(Con)stitution|(Cha)risma
+-----------|-----------|-----------|-----------|--------------|------------
+ Titanic   | Genious   | Excellent | Fast      | Iron         | Charismatic
+ Herculian | Clever    | Wise      | Quick     | Hearty       | Familier
+ Strong    | Good      | Good      | Dextrous  | Healthy      | Good
+ Average   | Average   | Average   | Average   | Average      | Average
+ Poor      | Poor      | Dim       | Clumsy    | Poor         | Poor
+ Weak      | Hopeless  | Fool      | Slow      | Fragile      | Mongol
+___________|___________|___________|___________|______________|____________
+You don't get many trains, so choose well.
+Str:Herculian Int:Average Wis:Average Dex:Dextrous Con:Hearty Cha:Familier
+Accept (Y/N)? n
+Str:Herculian Int:Average Wis:Dim Dex:Quick Con:Average Cha:Familier
+Accept (Y/N)? y
+</pre>
+<p>Теперь пришло время для выбора мировоззрения. Каким будет Ваш 
+персонаж -- добрым, злым или будет ни рыба ни мясо, то есть
+нейтральный. Некоторые расы и профессии уже заведомо имеют какое-то
+мировозрение 
+(<a href='?section=getstart&name=alignment' target="_blank">
+русский вариант текста</a>).
+<pre class=sog_code>
+Alignment defines character's creed, his behavior in various
+situations and circumstances, and what is the most important to him
+in his life.
+
+-- good; such character has an "open soul", he recognizes and accepts
+only bright and fair nature of people surrounding him; he always
+tries to help those in need, provided it does not go against his own
+principles (for chaotic), and does not break the law (for lawful);
+good character appreciates and respects others, and he would not do
+anything harmful to anyone.
+
+-- evil; evil character lives for himself only, his own benefit is
+of high importance to him.  He will not hesitate to hurt anyone, if
+his interests require doing so.  He may kill, yet may help, if this
+would enrich him, or allow to raise his social status.
+
+-- neutral; such character is not openly generous (as good), but neither
+is an egoist (as evil).  He lives primarily for Idea, which can be
+anything, such as secret order, science, honor of uniform, money, or
+whatever.
+
+A note on "good vs. evil".  Evil character is not committed to
+doing harm.  His "evilness" does only mean that he will do that
+when needed.  Therefore, if good character finds out, say, from
+'know alignment' that someone is evil and attacks that character,
+he can no longer be called "good".  Such kind of deed would simply
+be an indication of former good's cowardice.  That is, "evil alignment"
+is not enough of reason for good character to start the confrontation,
+as well as that evil character indeed had evil intents.  A single
+thought cannot be justified as a crime, and no one can prove whether
+it really did cross someone's mind or not.
+
+You may be good, neutral, or evil.
+Which alignment (G/N/E)? n
+Now your character is neutral.
+</pre>
+<p>Мировозрение выбрано. Теперь выбирается место своего рождения в Shades of
+Gray Realms. В Shades of Gray есть несколько мест, откуда можно начинать
+игру. И при recall'е вы будете возвращаться именно в тот город, в котором
+родились. Для вампиров и некромантов место рождения выбирать не придется -- у
+них свое особое место рождения.
+<pre class=sog_code>
+
+You can pick one of six cities as your hometown: New Thalos and Midgaard are
+all alignments. Ofcol is neutral only. Your hometown is where you will
+recall to and is where the pit is to which your corpse will decay.
+Everyone starts at mud school, which is connected to each of the hometowns.
+
+[M]idgaard, [N]ew Thalos, [O]fcol?
+</pre>
+Дальше нам нужно выбрать свое отношение к социуму: lawful, neutral или chaotic
+(<a href ='?section=getstart&name=ethos' target="_blank">русский вариант текста</a>).
+<pre class=sog_code>
+
+Ethos defines character's own valued principles and his attitude to
+society, cultural traditions, and law.  There are three possibilities:
+
+  -- lawful; such character respects and obeys all the laws and
+traditions of society, no matter whether he benefits from it or not.
+Laws prevail over his personal values and principles, and govern his
+behavior.  Under any circumstances lawful character tries to find
+the answers in traditions and law first, and if this fails, he may ask
+people surrounding him, or find answers in himself.  He is always devoted
+to serving the society, it's prosperity, and keeping it's traditions.
+Lawful character will never ever break the law, even if it is meaningless,
+or stupid (but such kind of thoughts never cross his mind); he will do
+do it neither for himself, nor for his friends.
+
+  -- chaotic; is the opposite of lawful.  Such character always and
+everywhere is guided by his own beliefs and principles.  No matter what
+he does, the key factor is his own benefit, not his friend's, group-
+mate's, or anyone's else; he does not care about society either.  However,
+being chaotic does not mean that such character is committed to break the
+law, or go against it, still he would not doubt doing so, but only if
+the law contradicts with his own principles or interests.  It should be
+noted that character who's life goes as "his left (or right) heel wants"
+is not really a chaotic, but simply does not have any stand, and he
+actually should think about it.
+
+  -- neutral; is somewhat a middle of two extremities: serving the society
+and serving himself; uncomplaining acceptance of the laws and persistent
+commitment to his own ideals only.  Society as a whole does not matter
+much for neutral character, but people (and other creatures) who form
+it do.  They might be his friends, group-mates, or might confess the same
+idea or region as he does.  Neutral character may break the law, if he, or
+his friend needs it, or give up on his own interests for the sake his deed
+(order, guild, etc).
+
+What ethos do you want, (L/N/C) <type help for more info>?
+</pre>
+<p>Персонаж создан. Теперь можно смело начинать свое путешествие
+по Миру Серых Теней.
+<pre class=sog_code>
+* This is a Roleplaying, PlayerKilling and Adventure MUD.
+* You are responsible for knowing the rules (type 'rules').  Ignorance of 
+  the rules is no excuse.
+* Important commands: help, commands, news, notes, changes.
+* Read all helps. So many things are changed relatively before.
+* Added multi-language support command. See 'language' command.
+* Mail to sog@any.ru for bug reports and suggestions.
+* Check out our homepage at http://iclub.nsu.ru/mud.
+
+Welcome to Shades of Gray. Enjoy!
+This is your first login.
+You have been equipped by gods.
+
+Ah! Another mortal, seeking adventure. You should go through mudschool 
+first, to gain experience to face the trials outside. Be sure to practice 
+a weapon in the guild room, or your stay with us shall be very short
+indeed. Type 'equipment' to see what your are wielding, 'spells' to see
+your spells, 'skills' to see your skills, and 'commands' for a list of
+commands. Help is available on most commands and abilities. It is strongly
+recommended that you go through all the helps at a low level, especially
+for first time mudders.
+</pre>
+<p>В начале игры ты появляешься у входа в школу. Это самое простое место, где 
+можно подняться на несколько уровней. Но после 5-го уровня вход в школу для 
+тебя закрыт.
+<pre class=sog_code>
+Entrance to Mud School
+  This is the entrance to the Merc Mud School.  Go north to go through mud
+school.  If you have been here before and want to go directly to the arena,
+go south.
+
+A sign warns 'You may not pass these doors once you have passed level 5.'
+
+P.S. Use 'lang rus' command, if you want russian language
+P.P.S. Use 'toggle color' to enable full ANSI color support.
+There are 45 changes waiting to be read.
+You have 71 new notes waiting.
+You have 44 unread ideas to peruse.
+</pre>
+<p>Удачи в боях!!!
+<p>Telnet to <a HREF="telnet://sog.dnttm.ru:4000/">Shades of Gray</a>.</p>

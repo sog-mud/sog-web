@@ -1,0 +1,320 @@
+<h1>Куда пойти учиться?!</h1>
+<hr>
+<p>
+<p>
+Все умения в Мире Серых Теней разделены по группам. Для каждой группы
+есть свой учитель, который обучает умениям группы. Чтобы узнать в какую
+группу входит то или иное умение или заклинание используется команда
+'slook <название>'. Команда 'glist <название группы>' обратна команде
+slook, она показывает все заклинание и умения входящие в указанную группу.
+Звездочками при этом отмечаются умения/заклинания, которыми ты уже обладаешь,
+или будешь обладать в будущем, когда подрастешь.
+<p>
+<table border = "0"  cellpadding=3 width = "100%">
+<tr><td>&nbsp;</td><td align = "center">Существуют следующие группы:</td><td>&nbsp;</td></tr>
+<tr bgcolor=#3f3f3f>
+<td> группа</td>
+<td> имя учителя</td>
+<td> где искать</td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=attack' target="_blank"> attack</a></td>
+<td><a href="#demon"> A towering, black scaled demon </a></td>
+<td> Camelot</td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=beguiling' target="_blank"> beguiling</a></td>
+<td><a href="#beholder"> Mighty Beholder</a></td>
+<td> Thalos         </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=benedictions' target="_blank"> benedictions </a></td>
+<td><a href="#templeman"> Templeman </a></td>
+<td> Midgaard       </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=combat' target="_blank"> combat</a></td>
+<td><a href="#magician"> The Combat Magician </a></td>
+<td> Elemental Canyon </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=curative' target="_blank"> curative</a></td>
+<td><a href="#knight"> Grand Knight of Paladins </a></td>
+<td> Redfernes' Residence  </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=defensive' target="_blank"> defensive </a></td>
+<td><a href=#heimdall> Heimdall </a></td>
+<td> Valhalla       </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=draconian' target="_blank"> draconian </a></td>
+<td><a href="#rulers"> Rulers </a></td>
+<td> Elemental Canyon </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=enchantment' target="_blank">enchantment</a></td>
+<td><a href="#enchantment"> Master Enchanter </a></td>
+<td> High Tower of Sorcery    </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=enhancement' target="_blank"> enhancement </a></td>
+<td><a href="#healer"> Healer </a></td>
+<td> Valley of Titan</td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=fightmaster' target="_blank"> fightmaster </a> </td>
+<td><a href="#heimdall"> Heimdall </a></td>
+<td> Valhalla       </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=healing' target="_blank"> healing </a></td>
+<td><a href="#priest"> Priestess of Ofcol</a></td>
+<td> Ofcol          </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=illusion' target="_blank"> illusion </a></td>
+<td><a href="#illusion"> The Master of Illusions</a></td>
+<td> High Tower of Sorcery     </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=maladictions' target="_blank"> maladictions </a></td>
+<td><a href="#diana"> Diana </a></td>
+<td> Ofcol          </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=meditation' target="_blank"> meditation </a></td>
+<td><a href="#hiero"> Hierophant holy</a></td>
+<td> Holy Grove     </td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=protective' target="_blank"> protective </a></td>
+<td><a href="#gath"> Gath </a></td>
+<td> City of Anon   </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=transportation' target="_blank"> transportation </a></td>
+<td><a href="#mistress"> Grand Mistress of Magic</a></td>
+<td> High Tower of Sorcery</td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=weaponsmaster' target="_blank"> weaponsmaster </a></td>
+<td><a href="#samurai"> Samurai </a></td>
+<td> New Thalos     </td>
+</tr>
+<tr bgcolor = #303030>
+<td><a href='?section=getstart&name=show&file=wizard' target="_blank"> wizard </a> </td>
+<td><a href="#wizard"> Wizard </a></td>
+<td> Midgaard</td>
+</tr>
+<tr>
+<td><a href='?section=getstart&name=show&file=necromancy' target="_blank"> necromancy </a></td>
+<td><a href="#myzelak"> Myzelak </a></td>
+<td> Lich Tower</td>
+</tr>
+</table>
+<p>
+Кроме того, есть еще несколько групп, умения из которых практикуют мастера
+гильдий. Это:<a href='?section=getstart&name=show&file=weather' target="_blank"> 'weather'</a>,<a href='?section=getstart&name=show&file=creation' target="_blank"> 'creation' </a>,<a href='?section=getstart&name=show&file=harmful' target="_blank"> 'harmful' </a>,<a href='?section=getstart&name=show&file=protective' target="_blank"> 'protective'</a> и
+<a href='?section=getstart&name=show&file=detection' target="_blank">'detection'</a>. Умения/заклинания, не входящие ни в одну из вышеперечисленных групп, относятся к группе 'none' и практикуются у мастера гильдии.
+<p>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="illusion">
+<tr><td valign = "top" align = "center" width = "20%"> The Master of Illusions</td>
+<td>
+Часть дороги пролегает по реке, поэтому надо либо уметь плавать/летать, либо
+необходимо иметь с собой плавсредство.
+<p>
+От базарной площади Мидгаарда: 5sd5wnwn3wnw2n.  Затем в shadow grove найти
+lost adventurer (по scan) (An emaciated adventurer is here looking lost
+and hopeless.)  От него: 2n3e, open north door, 2nu3w4s4e4nu4w2s, open west
+door, w, open up door, u, open up door, u, open east door, e2s2e, open south
+door, s или 
+2n3e, open north door, 2nu3w4s4e4nu4w4s4e4nu4w4s2e, open south door, s
+По дороге можно встретить некоторое количество агров 15-16 уровня, которые
+видят 'invisibility'.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="knight">
+<tr><td valign = "top" align = "center" width = "20%"> Grand Knight of Paladins</td>
+<td> Найти его очень просто. От MSM: 6se3sws4u, дорога проходит по городу,
+поэтому никакие неприятности встретиться не должны. Место же, где находится
+сам Grand Knight обладает одной интересной особенностью: там не может находиться
+больше двух живых существ одновременно. То есть, когда ты будешь там, больше
+никто не сможет войти.</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="demon">
+<tr><td valign = "top" align = "center" width = "20%"> A towering, black scaled demon</td>
+<td>
+От MSM: 4e3n2w3ne2n5en. Здесь тебя будет поджидать черный рыцарь 20 уровня.
+Он нападает на всех, кроме привидений и бессмертных. От рыцаря: e2nedeu8enu
+будет демон.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="beholder">
+<tr><td valign = "top" align = "center" width = "20%"> Mighty Beholder</td>
+<td>
+От MSM: 6e4s7w. По дороге могут встретиться ламии, они агрессивны, но
+небольшого уровня (~7-8) и не видят 'invisibility', 'hide' и т.п.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="magician">
+<tr><td valign = "top" align = "center" width = "20%">The Combat Magician</td>
+<td>
+От MSM: 6e4s2es2eds, дальше тебе предстоит подняться до самого верха.
+А на самом верху обитает циклоп. Он 22 уровня и агрессивен, но не видит
+'invisibility' (hide видит).Поэтому если ты еще недостаточно силен, чтобы
+сразиться с ним, и недостаточно велик, чтобы он побоялся на тебя напасть,
+стоит запастить 'invisibility'. Например, ты можешь поднимаясь вверх и
+встретив продавца эликсиров (elixir vendor) купить у него anti-cyclop
+elixir и выпить его. После того, как ты достигнешь верха горы, иди: ndnu.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="priest">
+<tr><td valign = "top" align = "center" width = "20%"> Priestess of Ofcol</td>
+<td>
+От MSM: 4e3n2w3ne2n2ene3n9e.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="diana">
+<tr><td valign = "top" align = "center" width = "20%"> Diana</td>
+<td>
+От MSM: 4e3n2w3ne2n2ene3n2e.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="healer">
+<tr><td valign = "top" align = "center" width = "20%"> Healer in Titan's Valley</td>
+<td>
+От MSM: 13w2ne2n4wn2w2n2w5s4w11se2s, open east door, e2n. По дороге можно встретить волков и лис, которые, впрочем, не представляют особой опасности.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="hiero">
+<tr><td valign = "top" align = "center" width = "20%"> Holy Hierophant</td>
+<td>
+От MSM: 8e2nen, в holy grove искать hierophant'а. Следует знать и помнить,
+что hierophant'ов двое. Один из них является учителем, другой - нет.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="enchantment">
+<tr><td valign = "top" align = "center" width = "20%"> Master Enchanter</td>
+<td>
+Часть дороги пролегает по реке, поэтому надо либо уметь плавать/летать, либо
+необходимо иметь с собой плавсредство.
+<p>
+От базарной площади Мидгаарда: 5sd5wnwn3wnw2n.  Затем в shadow grove найти
+lost adventurer (по scan) (An emaciated adventurer is here looking lost
+and hopeless.)  От него: 2n3e, open north door, 2nu3w4s4e4nu4w2s, open west
+door, w, open south door, s.  По дороге можно встретить некоторое количество
+агров 15-16 уровня, которые видят 'invisibility'.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="heimdall">
+<tr><td valign = "top" align = "center" width = "20%"> Heimdall</td>
+<td>
+Проще простого: 3u от лекаря города Мидгаарда.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="templeman">
+<tr><td valign = "top" align = "center" width = "20%"> Templeman in Midgaard</td>
+<td>
+Совсем просто: n от лекаря города Мидгаарда.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="rulers">
+<tr><td valign = "top" align = "center" width = "20%"> Rulers</td>
+<td>
+Всего их пятеро. От MSM: 6e4s2es2eds2u, купить anti-cyclop elixir у vendor'а,
+если циклоп еще представляет для тебя угрозу (он 22 уровня) и выпить его, 2undn.
+<p>
+Далее:
+<ul>
+<li>Lightning Ruler: 3nwnw2neu</li>
+<li>Fire Ruler: 2n2ws2w</li>
+<li>Air Ruler: 3ne3n3e</li>
+<li>Water Ruler: n2e3n2ed</li>
+<li>Earth Ruler: 4e2se</li>
+</ul>
+<p>
+Выбирай любого себе по вкусу.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="mistress">
+<tr><td valign = "top" align = "center" width = "20%"> Grand Mistress of Magic</td>
+<td>
+Часть дороги пролегает по реке, поэтому надо либо уметь плавать/летать, либо
+необходимо иметь с собой плавсредство.
+<p>
+От базарной площади Мидгаарда: 5sd5wnwn3wnw2n.  Затем в shadow grove найти
+lost adventurer (по scan) (An emaciated adventurer is here looking lost
+and hopeless.)  
+<p>От него: 2n3e, open north door, 2nu3w4s4e4nu4w4s4e4nu4w4s4e4nu2w5s2un, open north door, n, open north door, n, open north door, 2n
+По дороге можно встретить некоторое количество агров 15-16 уровня, которые
+видят 'invisibility'.
+<p>
+Попасть же от Grand Mistress в Мидгаард гораздо проще: n, open west door, 2wu.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="gath">
+<tr><td valign = "top" align = "center" width = "20%"> Gath</td>
+<td>
+От MSM: 6e4s4w3s4wnw. Встречающиеся по дороге ламии агрессивны, но небольшого
+уровня (~7) и не видят 'invisibility'.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="myzelak">
+<tr><td valign = "top" align = "center" width = "20%"> Myzelak</td>
+<td>
+От MSM: 6e4s2es2ed3ne4s5w3ues. По дороге могут встретиться тяжело
+преодолимые трудности в виде агров достаточно большого уровня, но, если
+ты вампир, беги смело.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="wizard">
+<tr><td valign = "top" align = "center" width = "20%"> Wizard</td>
+<td>
+Визарда можно найти в магазине магических товаров города Мигаарда. 2wn от
+базарной площади.
+</td>
+</tr>
+</table>
+<hr>
+<table border = "0" cellpadding=10 width = "100%" id="samurai">
+<tr><td valign = "top" align = "center" width = "20%"> Samurai</td>
+<td>
+От MSM: 15e, open east door, en. Когда идешь через пустыню у тебя могут
+испариться флаконы с поушенами, а также вода. Так что, беги быстрее.
+</td>
+</tr>
+</table>

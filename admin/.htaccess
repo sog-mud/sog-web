@@ -1,0 +1,7 @@
+Options Includes ExecCGI
+AuthType Basic
+AuthName "SoG Admin"                                     
+AuthGroupFile /usr/local/www/data/mud/admin/.htgroup
+AuthUserFile /usr/local/www/data/mud/admin/.htuser  
+require group admins
+SSLRequireSSL

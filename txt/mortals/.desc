@@ -1,0 +1,76 @@
+<h1>Смертные</h1>
+<p>Смертные - это те, кто населяет Мир Серых Теней. Это те, кто создает
+ту особую атмосферу, царящую в мире. Без смертных не было бы мира, или
+же он был бы мертвым. Местные жители многочисленны и разнообразны, с
+разными целями и устремлениями. Здесь можно прочитать истории тех, кто
+делает этот мир таким, каков он есть.</p>
+<table border = "0" cellspacing=1 cellpadding=2 width="80%" align = "center">
+<tr>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=morte'>Morte</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=lilith'>Lilith</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=kiti'>Kiti</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=demien'>Demien</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=melpomena'>Melpomena</a>
+</td>
+</tr>
+<tr>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=agrael'>Agrael</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=zorg'>Zorg</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=caspian'>Caspian</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=richard'>Richard</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=ahellair'>Ahellair</a>
+</td>
+</tr>
+<tr>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=dias'>Dias</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=grandrat'>Grandrat</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=kilburn'>Kilburn</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=ketsalkoatl'>Ketsalkoatl</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=maedros'>Maedros</a>
+</td>
+</tr>
+<tr>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=kpoxa'>Kpoxa</a>
+</td>
+<td bgcolor = #252525 align="center">
+<a href='?section=mortals&name=kami'>Kami</a>
+</td>
+<td bgcolor = #303030 align="center">
+<a href='?section=mortals&name=morgot'>Morgot</a>
+</td>
+<td bgcolor = #252525 align="center">
+&nbsp;
+</td>
+<td bgcolor = #303030 align="center">
+&nbsp;
+</td>
+</tr>
+</table>

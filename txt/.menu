@@ -1,0 +1,17 @@
+news==Новости==/?section=news
+rules==Правила==/?section=rules
+races==Расы==/?section=races
+classes==Профессии==/?section=classes
+religions==Религии==/?section=religions
+clans==Кланы==/?section=clans
+area==Зоны==/?section=area
+imms==Бессмертные==/?section=imms
+mortals==Смертные==/?section=mortals
+objects==Объекты==/?section=objects
+getstart==Первые шаги==/?section=getstart
+phorum==Форумы==/?section=phorum
+game==Поиграем?==telnet://sog.dnttm.ru:4000
+who==Кто там?==/?section=who
+docs==Документация==/?section=docs
+credits==Credits==/?section=credits
+files==Файлы==/?section=files

@@ -1,0 +1,29 @@
+WS = White Square(БелаЯ клетка)
+BS = Black Square(ЧернаЯ клетка)
+
+                 Black(ЧернаЯ сокровищница)
+                Treasure
+                  \
+                   = (down)
+                    \
+         WS--BS--WS--BS--WS--BS--WS--BS
+          |  |   |   |   |   |   |   |
+         BS--WS--BS--WS--BS--WS--BS--WS
+          |  |   |   |   |   |   |   |
+         WS--BS--WS--BS--WS--BS--WS--BS
+          |  |   |   |   |   |   |   |     ВеликаЯ      
+         BS--WS--BS--WS--BS--WS--BS--WS---шахматнаЯ-----
+          |  |   |   |   |   |   |   |      доска
+         WS--BS--WS--BS--WS--BS--WS--BS   Мидгаарда 
+          |  |   |   |   |   |   |   | 
+         BS--WS--BS--WS--BS--WS--BS--WS
+          |  |   |   |   |   |   |   | 
+         WS--BS--WS--BS--WS--BS--WS--BS
+          |  |   |   |   |   |   |   | 
+         BS--WS--BS--WS--BS--WS--BS--WS
+                    /
+                   =
+                  /
+                  White(БелаЯ сокровищница)
+                  Treasure
+

@@ -1,0 +1,41 @@
+
+			* * * Graveyard * * *
+                         = = =========== = =
+
+                                   #
+ # - Exit                          |
+                     Gravel-----Gravel------Gravel
+   N U                Path       Road        Path
+   |/                  /|          |          /|
+W-- --E               / |          |         / |
+  /|              Dusty |          |     Dusty |
+ D S              Tomb  |          |     Tomb  |
+                        |          |           |
+         Gravel------Gravel      Gravel      Gravel------Gravel
+          Path        Path        Road        Path        Path
+           /|          /            |          /           /|
+          / |         /             |         /           / |
+      Dusty |     Dusty             |     Dusty       Dusty |
+      Tomb  |     Tomb              |     Tomb        Tomb  |
+            |                       |                       |
+ In a----Gravel------Gravel      Gravel      Gravel------Gravel
+ SHED     Path        Path        Road        Path        Path
+                       /|           |          /|          /
+                      / |           |         / |         /
+                  Dusty |           |     Dusty |     Dusty
+                  Tomb  |           |     Tomb  |     Tomb
+                        |           |           |
+                     Gravel      Gravel      Gravel
+                      Path        Road        Path
+                       /|           |          /|
+                      / |           |         / |
+                  Dusty |           |     Dusty |
+                  Tomb  |           |     Tomb  |
+                        |           |           |
+                     Gravel------In front-----Gravel
+                      Path    of the Chapel   Path
+                       /            |          /
+                      /             #         /
+                  Dusty                   Dusty
+                  Tomb                    Tomb
+

@@ -1,0 +1,21 @@
+            [ ]
+            / |
+           /  |                  G = Gift Shop
+         [G]-[W]--[K]            W = Wishing well
+              |                  K = Kiddies Zoo
+        [X]--[ ]                 X = Out of bounds (Keeper)
+              |                  C = Crocodile
+     [C]      |   [G]            Y = Out Of Bounds (Feed Hut)
+      |       |    |             D = Dolphin
+     [ ]-----[ ]--[ ]--[ ]-[Y]   T = Tiger
+      |       |    |    |        U = Unicorn
+     [D] [E]-[ ]  [b]   |        B = Baby Dragon
+              |        [ ]-[B]   G = Gorilla
+             [T]        |        E = Elephant
+                       [U]       b = Bear
+
+           N
+           |
+       W-     -E
+	   |
+           S

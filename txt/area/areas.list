@@ -1,0 +1,108 @@
+#name::Low level::Hi level::description file
+
+Midgaard::1::100::midgaard::MSOM>>>6e2nd4n
+Ofcol::1::100::ofcol::4e3n2w3ne2n2ene2n
+Festival Town::1::100::festival_town::4e3n2w4n13w9n
+Elvenhame::1::100::elvenhame::4e3n2w2n2w
+The mystic pond::1::100::mystic_pond::3nw
+Old Midgaard::1::100::old_midgaard::8e2nen2e, Void, 2wsw (еще 6w -- MSM)
+Valgalla::1::100::valgalla::3nu
+
+MUD School::1::5::mud_school::2nu
+Day Care::1::5::day_care::6e3n2es
+Newbie Zone::1::10::newbie_zone::MSOM>>2nu
+
+Smurfville::1::10::smurfville::7en
+Zoology::1::10::mud_school::2nue
+Circus::1::12::circus::6se4s
+Zoo of Midgaard::1::15::zoo_midgaard::8sesu
+Plains::1::20::plains::4e3n2wn
+Clock Tower::1::30::clock_tower::3e4n2w4n13w16n, enter door
+Greater Gerighelm::1::30::greater_geringhelm::7wu
+Graveyard::5::10::graveyard::3e7sws
+Haon Dor::5::10::haon_dor::5w
+Gnome Village::5::15::gnome_village::8es
+Mob Factory::5::15::mob_factory::3w3se
+Miden'nir::5::15::midennir::6e2n
+Moria::5::15::moria::4wn
+Mirkwood::5::15::mirkwood::4e3n2w2n3edn
+Holy Grove::5::20::holy_grove::8en
+Arachnos::5::20::arachnos::13ws2wnwuwn
+Valley of the Elves::5::20::valley_elves::4e3n2w5nwn
+Wyvern's Tower::5::30::wyverns_tower::6e4s2es2ed2e
+Sewers::5::30::sewers::4sd
+Elemental Canyon::5::30::elemental_canyon::6e4s2es2eds
+Dragon Tower::5::30::dragon_tower::3s2e2s6wnwn3wnwn, найти dragon hatchling, n
+New Ofcol::5::35::ofcol::4e 3n 2w 3n e 2n 2e n e 3n 2e
+Mahn-Tor::5::35::mahn_tor::6e4s2es2ed3ne3se2sw3sd4se2s2u
+Shire::5::35::shire::5wn
+Solace::5::35::solace::MSOM>>>6e5n
+Dark Continent::5::35::dark_continent::34en2e
+Magic Forest::5::40::magic_forest::4e3n2w2n25w
+Pyramid::5::50::pyramid::3s2e2s10enen2e
+Olympus::5::60::olympus::4e3n2w6nu
+The Village of Anon::5::65::anon::6e4s4w3s4wnws8w
+The City of Anon::5::65::anon::6e4s4w3s4wnw
+Prison::5::90::prison::6s3w
+Ershteep City::7::15::ershteep_city::4e3n2w3nenen
+Freeport::8::53::freeport::34en3e
+Faerie Ring::10::15::faerie_ring::3e8s2w2s2e2se
+Troll Den::10::15::troll_den::3s2e2s6wnes
+Goblin Stronghold::10::20::goblin_stronghold::3e8s2w6sese4su
+Catacombs::10::20::catacombs::6e3n2e3n2w2nw2n3e2sd
+Firetop Mountain::10::20::firetop_mountain::4e3n2w5nwnw2ue4nenenesesw3n
+Sands of Sorrow::10::20::sands_sorrow::3s2e2s3e
+Dwarven Kingdom::10::25::dwarven_kingdom::6e3n2e
+Goblin Nation::10::25::goblin_nation::35ese
+Thalos::10::25::thalos::6e4s3w
+SilverDale::10::30::silverdale::6e9nu
+High Tower::10::30::high_tower::3s2e2s6wnwn3wnwn, найти lost adventure и идти на север
+Astral Plane::10::35::astral_plane::n 2u n 2u
+New Thalos::10::35::new_thalos::16e
+Chessboard of Midgaard::10::35::chessboard_midgaard::3w2sw
+Antharia::10::42::antharia::MSOM>>>6e4sd
+Gilligan's Island::12::18::gilligans_island::34ene2n
+Drow City::15::25::drow_city::6e4s2es2edws2d
+Marsh::15::25::marsh::3s2e2s6wnws
+Dylan's Area::15::25::dylans_area::6se3sws4us
+Chapel::15::25::chapel::3e7sw6s
+Shaolin Temple::15::30::shaolin_temple::35esenen21e5s4e2n2e
+Aarakocran City::15::30::aarakocran_city::6e4s2es2eds4und4ne3neu
+Yggdrasil::15::50::yggdrasil::13ws2wnwuw4neus2eswsdneunds5wn
+UnderDark::15::50::underdark::6e10nd
+Emerald Forest::15::60::emerald_forest::3e8s2w3swsw
+Redferne's::20::30::redfernes::6se3swsu
+Galaxy::20::30::galaxy::3s2e2s6wnwn3wnwn, найти таверну, down
+The Keep of the Warlock::20::30::keep_warlock::MSOM>>6e2nw....
+Atlantis::20::40::atlantis::34ede
+Mirror of Realm::20::50::mirror_realm::6e2ne
+Castle of Giants::20::50::castle_giants::6e4s2es2ed5n2w2n
+Camelot::20::52::camelot::4e3n2w3ne2n5e
+Coven::25::35::coven::6e4s2en
+Caverns::25::45::caverns::6e4s2es2ed3ne4s4wsw2sd2sd
+Valley of the Titans::25::50::valley_titans::13w2nen
+Dying Forest::25::50::dying_forest::6e5s
+Pixie Forest::30::45::pixie_forest::9wn
+Nirvana::30::35::nirvana::8e2n2eu
+Old Troya::30::45::old_troya::4e3n2w6n2u8nd
+The Abyss::30::50::abyss::6e4s2es2edsun
+Darathorn's Pit::30::50::darathorns_pit::4e3n2w3ne2n3en
+King's Castle::30::50::kings_castle::4e3n2w5nen
+Dragon Spyre::30::65::dragon_spyre::4e3n2w3ne2n4esu
+Arcadia::30::90::arcadia::4e3n2w2n3edn3ed2nw
+Hell::32::56::hell::6e4s2es2ed3ne4s4wsw2sd2sde2sde2swswswd2edse3s
+Blight::35::50::blight::6e10n2e7nwnw
+Lair of Jher::35::55::lair_jher::13w2n2ed5nu2wn2wd2sd
+Wonderland::35::45::wonderland::6se3sws4u2se 'enter hole'
+Mausoleum::40::51::mausoleum::3e7sw6sds2w2ses
+Isles::40::90::isles::4e3n2w3ne2n4e4sw
+Westland::40::90::westland::13w2ne3n
+Ciquala's Lair::40::62::ciquala_lair::13w2n2en
+Kurgan Mount Doom::45::65::kurgan_mount_doom::13w2n2edn
+Ghost::45::65::ghost::21e5sden
+Lich Tower::45::47::lich_tower::6e4s2es2ed3ne4s2w
+Divided Souls::45::90::divided_souls::6se3sws4use
+The Walls of Anon::50::65::anon::6e4s4w3s4wnws6wn
+The Unholy Abbey::60::65::unholy_abbey::6e10n2e8n
+Drakyri Isle::65::90::drakyri_isle::7w2sese3s
+Armageddon::70::95::armageddon::34en4e2s3enen5es2e

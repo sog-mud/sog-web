@@ -1,0 +1,33 @@
+
+                            MOB FACTORY
+
+
+           M.F.      M.F.       M.F.      Primary    Secondary
+         Storage---Storage---Inspection---Assembly---Assembly
+           Area      Area       Room        Line       Line
+            |         |          |           |          |
+            |         |          |           |          |
+           M.F.      M.F.       M.F.      Primary    Secondary
+         Storage---Storage---Inspection---Assembly---Assembly
+           Area      Area       Room        Line       Line
+            |         |          |           |          |
+            |         |          |           |          |
+ Wall    Entrance  Entrance   Entrance    Primary    Secondary
+ Road-----to the---Hallway----Hallway-----Assembly---Assembly
+           M.F.     to the     to the       Line       Line
+            |        M.F.       M.F.         |          |
+            |         |          |           |          |
+            |         |          |        Primary    Secondary
+        Foreman`s    M.F.       M.F.      Assembly---Assembly
+         Office   Cafeteria    Reject       Line       Line
+            |         |         Room         |          |
+            |         |          |           |          |
+        Foreman`s    M.F.       M.F.      Primary    Secondary
+         Office   Cafeteria    Reject     Assembly---Assembly
+                                Room        Line       Line
+
+
+ Created By Mamont
+
+
+

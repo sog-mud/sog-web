@@ -1,0 +1,213 @@
+SHADOW GROVE
+
+Эта часть арии представляет собой набор из 9 комнат, со случайными переходами наподобие
+Void (norecall). К счастью, команды exits, scan и особенно farsight помогают здесь быстро
+найти выход. Ищите авантюриста или мага, если хотите попасть в High Tower; маленького
+дракона, если вам нужна Dragon Tower; наконец, чтобы попась в Galaxy, нужно искать
+комнату Inside Tavern. Приблизительно до 10 уровня нужно остерегаться и обходить
+невидимых стражей, которые агрессивны и, могут наложить blindness.
+
+                                       (E)
+                                        ^
+                                        |
+                                A small clearing (авантюрист)
+                                       ^|  
+                                (G3)   +v   (G4)
+                                  +    +|    +
+                                  +    +|    +
+                          (G1)+++SG++++SG++++SG+++(G1)
+                                  +     +    +           SG = Shadow Grove
+                                  +     +    +           
+                                  +     +    +           
+              Dragon Tower...--->SG++++SG++++SG<---Galaxy           
+            (The Tower Gates)<+++ +     +    + +++>(Inside a Tavern)
+           (маленький дракон)     +     +    +
+                                  +     +    +
+                          (G2)+++SG++++SG++++SG+++(G2)
+                                  +    +^    +
+                                  +    +|    +
+                                (G3)   +|   (G4)
+                                       v|
+                           Entrance to the Shadow Grove
+                                        |
+                                       ...
+                                    Haon Dor
+                           (At the end of the trail
+                         through the deep, dark forest)
+--------------------------------------------------------------------------------
+FLOOR 0
+                                   A dark           
+                                    cell            
+                                      |              (0)          
+                                      =              /            
+                                      |             /             
+                                    Dark      Below/              
+                                  passage  the Trapdoor           
+                                      |   /                       
+                            Dark      |  /     Dark   The Jailor's
+                           passage---Damp-----passage-----Office  
+                                  Intersection                    
+                                      |                           
+                                     The                          
+                                 straghant pool                   
+                                        _/                        
+                              Below the straghant pool            
+--------------------------------------------------------------------------------
+FLOOR 1
+                                  Dark Hallway                                       (1)
+                                 /      |                                            /                  
+                               (0)      |                                        A hallway--=-The borht 
+                                        |                                         |               room  
+                             Magic---Common--Mages             A store room  A hallway-=-A guest 
+                              shop    room  Tawern                    |           |      bedroom 
+                                        |                             =           =
+                                        |                             |           |
+The kitchen-----Dining room------Inside the High---The Hallway--The hallway--Bend in the-=-A guest
+                                Tower of Sorceurs                     |        hallway     bedroom
+                                        |                             =           |
+                                        |                             |       Guardians
+                             Entrance to High Tower            A broom closet  chamber
+                                        |
+                                       (E)
+--------------------------------------------------------------------------------
+FLOOR 2
+                                        The apprentice's  The Apprentice's-=-The Apprentice's        
+                                             workshop         barracks         barracks              
+                                                 |                |                |                 
+                                                 =                =                =                 
+                           Bend in the           |                |                |                 
+                              Hallway--------A Hallway-------A Hallway-------A Hallway---A culdesac  
+                                |                                                  /                 
+                                |                          (2)                    /                  
+                                |                          /                    (1)                  
+                   A classroom--A Hallway          Below the stair                                   
+                                |                         |                                          
+                                |                   Hallway--The study                               
+                      An empty--A Hallway                 |                                          
+                      classroom |                   Hallway--A bedroom                               
+                                |                         |                                          
+                      An empty--A Hallway           Hallway--Spellmaster                             
+                      classroom |                         |  lounge                                  
+                                |                         |                                          
+                      Bend in the-Hallway-Hallway-Hallway-Bend                                       
+                         Hallway     |       |       |   hallway                                     
+                                    The     The      |                                               
+                             Amphitheatre training The dueling                                       
+                                           room     room                                             
+--------------------------------------------------------------------------------
+FLOOR 3
+                                            The master
+                                            scribe`s---=--A small
+                                            workshop      office
+                                   A store                   |
+                                    room                     =
+                                      |                      |
+                     Bend in the---Hallway----Hallway-----Hallway---A top the 
+                       hallway                                       starway
+                          |                                          /
+                          |                                         /            (3)
+        A store room-=-Hallway                                    (2)            /
+   (A)       |            |                                                     /
+      \      |            |                                                End of Hallway
+       \A very hot---=-Hallway                                                |   
+           room           |                                                Hallway     The animal pen
+             |            |                                                   |              |
+             =            |                                                Hallway--The charm master`s chamber
+             |            |                                                   |
+       The master      Hallway                                             Hallway---An empty
+       Enchanter`s        |                                                   |       room
+        chamber      Bend in the---Hallway-----Hallway------Hallway------Bend in the    
+                       hallway        |                        |           hallway      
+                                      |                        |                        
+                                a laboratory----The Mad     Pentagram                   
+                                               Alchemist`s   Chamber                    
+                                                workroom       |    Chapel (Den of the Vampire)
+                                                               V    ...     (The guardian vampire)
+                                                               |    /     
+                                                          Inside the                    
+                                             Sewers...----Energy Field--...Drow city
+                                       (dragons lair)    /     |          (Main Chamber)
+                                        (red dragon)    /     ...         (matron mother)
+                                                      ...    Olympus
+                                                   Dylan's   (Planning Room)
+                                                    Area     (Ares)
+                                             (Witches Tower)
+                                             (wicked witch)
+--------------------------------------------------------------------------------
+FLOOR 4
+                                                Master 
+                                 Spellbilder-spellbilder-=-store room
+                                    cashe       chamber       |
+                                      |                       =
+                                      |                       |  
+                      Bend in the--Hallway------Hallway----Hallway----A top the stairway
+                        hallway                                          /
+                          |                                             /
+                          |                                           (3)      (4)        
+          A store room Hallway                                                 /
+               |          |                                                   /
+             Golem        |                                          The end of hallway
+             master----Hallway                                               |
+            workshop      |                                               Hallway     The Necromancer's Lair
+           /   |          |                                                  |              |
+    слишком    |          |                                               Hallway     A dark room
+    темно   The golem  Hallway                                               |             |
+    чтобы    chamber      |                                               Hallway--=--A dark room
+    что-то                |                                                  |
+    увидеть           Bend in the--Hallway-----Hallway-----Hallway------Bend in the 
+     /                 hallway                    |           |           hallway
+   (A)                                        The master  The meditation
+                                 A bedroom--of illusion's   chamber
+                                               chamber
+--------------------------------------------------------------------------------
+FLOOR 5
+                                                        A bend in-----A corridor-----A corridor
+                      (i)         (j)                  the corridor                        /    
+ The reading           |           |                         |                            /     
+    room             In the     In the                       |                           (4)                
+      |         (k)--Library----Library--(l)             A corridor
+      |                |           |                         |
+   Between  In the   In the  The Entrance                    |
+the shelves-library--Library---to the----A corridor--An intersection----A corridor---=--The scrying
+                       |       library                       |                            chamber
+                       |           |                     A corridor
+                     In the     In the                       |         (5)          
+                (l)--Library----Library--(k)          The end of       /
+                       |           |                  the corridor  The landing
+                      (i)         (j)                        |     /
+                                                        The arched/
+                                                         entrance
+--------------------------------------------------------------------------------
+FLOOR 6
+                                     Midgaard (Hassan)
+                                        ...
+                                	 /`
+                               In the light<----A passage<--=---The altar---=---The treasure
+                                                                   |
+                                           The library---The audience chamber----A dressing room
+                                                                   |
+                                                           The entranceway
+                                                                   |
+                                                            A wide hallway
+                                                                   |
+                                                            A wide hallway
+           The meditation                                          |
+               chamber                                      A wide hallway                              It's very dark here
+                  |                                                |                                             |
+           The chamber of        An          A        A           An           A       A      The end      The chamber   The 
+A closet---the write light---antechamber-=-bright---bright----Intersection----dark----dark----of hallway-=-of darkness---inner
+                  |                        hallway  hallway   /    |         hallway hallway                    |        chamber
+                  |                                          / A greytiled                                   Torture
+               A study                                      /   hallway                                      chamber
+                                                          (5)      |
+                                                               A greytiled
+                                                                hallway
+                                                                   |
+                                                                   =
+                                                                   |
+                                                            The antechamber
+                                                                   |
+                                                  The study-The main chamber-A closet
+                                                                   |
+                                                               A bedroom
+

@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Shades of Gray</title>
+<#css>
+</head>
+<body bgcolor=black background="img/bg.gif" text=#bababa alink=#afafaf link=#777777 vlink=#777777 margintop=10 marginleft=10 marginright=10 marginbottom=10>
+<a name=top></a>
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tr>
+<td width="100%">
+<img src="img/shades_g.gif" width="276" height="52" alt="Shades of Gray" border="0">
+</td><td>
+&nbsp;
+</td></tr></table>
+<img src="img/white.gif" width=100% height=1><br>
+<table border="0" cellspacing="5" cellpadding="5" width="100%"><tr>
+<td width="150" valign="top">
+<#menu>
+</td>
+<td valign="top" width="1" background="img/white_.gif">
+<!--<img src="img/none.gif" width="1" height="300">-->&nbsp;</td>
+<td valign="top" align="left">
+<#content>
+</td>
+<td valign="top" width="1" background="img/white_.gif">
+<!--<img src="img/none.gif" width="1" height="300">-->&nbsp;</td>
+
+<td  valign="top" align="center" width="150">&nbsp;
+<!--<img src="img/spy.gif" border="0" width="88" height="31">-->
+<#banner>
+</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+
+<td width="100%"><p class=lit><a href=#top>[в начало страницы]</a></p>
+</td>
+<td></td>
+<td></td>
+</tr></table>
+
+</body></html>
